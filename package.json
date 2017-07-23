@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/vviital/alis-web-index/issues"
   },
-  "homepage": "https://github.com/vviital/alis-web-index#readme"
+  "homepage": "https://github.com/vviital/alis-web-index#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
 }
